@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kiyali (aka codekikicode)
 
-Aspiring software engineer, future Brooklyn College graduate (December 2025), and certified problem-solver.
+Aspiring junior data engineer, future Brooklyn College graduate (December 2025), and certified problem-solver.
 
 I’m building the kind of career where code meets curiosity—with a focus on neuroscience and ethical use API.
 
@@ -30,9 +30,9 @@ My long-term vision: systems that can read the room just as well as they can rea
 
 ## 🧰 Languages & Tools
 
-* **Languages**: Java (primary), C++ (intermediate), Python (learning), HTML/CSS (familiar)
-* **Tools**: IntelliJ IDEA, Git/GitHub, Visual Code Studio, Swing (JOption Pane, JFrame)
-* **Other Skills**: Technical writing, peer debugging, online research, literarary analysis, translating chaos into clarity
+* **Languages**: Python (primary for AI), Java (supportive for coursework), SQL (for database integration in AI/data projects)
+* **Tools**: IntelliJ IDEA, Git/GitHub, Visual Code Studio, Swing (JOption Pane, JFrame), Jupyter Notebook, Google Colab
+* **Other Skills**: Technical writing, peer debugging, online research, literary analysis, translating chaos into clarity
 
 ---
 
