@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kiyali (aka codekikicode)
+# 👋 Hi, I'm Kiki (aka codekikicode)
 
 Freelance software engineer, future Brooklyn College graduate (December 2026), and certified problem-solver.
 
