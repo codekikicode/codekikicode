@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kiyali (aka codekikicode)
 
-Freelance software engineer, future Brooklyn College graduate (December 2025), and certified problem-solver.
+Freelance software engineer, future Brooklyn College graduate (December 2026), and certified problem-solver.
 
 I’m building the kind of career where code meets curiosity—with a focus on neuroscience and ethical use API.
 
